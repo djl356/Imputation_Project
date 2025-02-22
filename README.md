@@ -10,4 +10,5 @@ The main analysis code used in the article titled "Boosting the power of rare va
 - Processing meta data.sh : used to process two types of cancer data after meta analyses.
 -False Positive Rate for imputed data (30 bio).R : used to calculate the false positive rate of association analysis results of 30 biochemistry biomarkers in two imputed data (n=150k).
 
-## Contact information if you have any questions about this part of code, please contact the author (daijinglan@stu.njmu.edu.cn).
+### Contact information 
+if you have any questions about this part of code, please contact the author (daijinglan@stu.njmu.edu.cn).
